@@ -11,7 +11,7 @@ def add(num, num):
     return result
 
 add(4,5)
-def hello2()
-    print("hello")
+def hello100():
+    print("howdy")
 
-hello2
+hello100()
